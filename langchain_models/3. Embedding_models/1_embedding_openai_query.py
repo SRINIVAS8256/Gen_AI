@@ -6,3 +6,4 @@ embedding=OpenAIEmbeddings(model="text-embedding-3-large",dimensions=32)
 
 result=embedding.embed_query("whats the weather like in New York City today?")
 print(str(result))
+print(str(len(result)))
