@@ -1,0 +1,28 @@
+# LangChain core
+langchain
+langchain-core
+
+# OpenAI integrations
+langchain-openai
+openai
+
+# Anthropic integrations
+langchain-anthropic
+
+# Google Gemini integration
+langchain-google-genai
+
+# Hugging Face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# PyTorch - required for running Hugging Face models locally
+torch
+
+# Environment variable management
+python-dotenv
+
+# Machine learning utilities
+numpy
+scikit-learn
